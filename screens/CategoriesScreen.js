@@ -49,4 +49,15 @@ const styles = StyleSheet.create({
 	},
 });
 
+// CategoriesScreen.navigationOptions = {
+// 	navigationOptions: {
+// 		headerTitle: 'Meal Categories',
+// 		headerLeft: () => {
+// 			<HeaderButtons HeaderButtonComponent={HeaderButton}>
+// 				<Item title='Menu' iconName='ios-menu' onPress={() => {}} />
+// 			</HeaderButtons>
+// 		},
+// 	},
+// }
+
 export default CategoriesScreen;
